@@ -127,10 +127,10 @@ Markos Leopardi – contributor on front-end, backend support, and deployment-re
 
 ---
 
-## Additional Documentation
+## Project Documentation
 
 Additional project planning and requirement documentation is available below:
 
 - [Project Requirements](./PROJECT_REQUIREMENTS.md)
 
-> Note: The original project requirements were created in Greek as part of the academic project planning process.
+> Note: The original planning and requirements were documented in Greek during the academic development phase of the project.
