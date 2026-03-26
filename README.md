@@ -125,5 +125,12 @@ Developed as part of a **6-person university team project**.
 
 Markos Leopardi – contributor on front-end, backend support, and deployment-related tasks.
 
-# ΑΔΟΠΣΕ-2023
-### [Απαιτήσεις Εργασίας](https://docs.google.com/spreadsheets/d/1LBdhLVvmhDI0dW_8M0Iy_vQQq6l8Y3d5M1Dh4jQRIiA/edit?usp=sharing)
+---
+
+## Additional Documentation
+
+Additional project planning and requirement documentation is available below:
+
+- [Project Requirements](./PROJECT_REQUIREMENTS.md)
+
+> Note: The original project requirements were created in Greek as part of the academic project planning process.
